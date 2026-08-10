@@ -32,4 +32,4 @@ jobs:
         context: .
         push: true
         # Replace 'yourusername' below with your actual Docker Hub username!
-        tags: shishirkulal26/antigravity-app:latest
+        tags: ujwal2000/antigravity-app:latest
